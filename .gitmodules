@@ -1,0 +1,8 @@
+[submodule "labs-openjdk/labs-openjdk-21"]
+	path = labs-openjdk/labs-openjdk-21
+	url = git@github.com:graalvm/labs-openjdk-21.git
+	branch = release/jvmci/23.1
+[submodule "svm/graal"]
+	path = svm/graal
+	url = git@github.com:oracle/graal.git
+	branch = release/graal-vm/23.1
